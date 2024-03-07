@@ -1,4 +1,4 @@
-Day,widget_id,Hour Of Day,Visits
+Day,widget_id,hour,Visits
 23.1.2024,214,12:00 - 12:59,1
 25.2.2024,287,19:00 - 19:59,2
 25.2.2024,287,20:00 - 20:59,2
